@@ -1,0 +1,22 @@
+# MTL written from C:\Users\nickh\Google Drive\SAE\Trimester 1\GAM405\Project\GAM405.1\Assets\Models\PowerUp_Health.obj
+newmtl Metal2
+Kd 0.088663 0.088663 0.088663
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.845 0.845 0.845
+newmtl Shell_Red
+Kd 0.632637 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.28 0.28 0.28
+newmtl Shell_White
+Kd 1.025 1.025 1.025
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.28 0.28 0.28

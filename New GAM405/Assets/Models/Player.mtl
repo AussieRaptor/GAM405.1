@@ -1,0 +1,57 @@
+# MTL written from C:\Users\nickh\Google Drive\SAE\Trimester 1\GAM405\New folder\New GAM405\Assets\Models\Player.obj
+newmtl Blackness
+Kd 0 0 0
+Ns 2.62298e-011
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Body
+Kd 0.00247946 0 0.0734177
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.04 0.04 0.04
+newmtl Body2
+Kd 0.00267279 0.195063 0.000355265
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0022031 0.0246835 0
+newmtl Default
+Kd 0.139024 0.139024 0.139024
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.845 0.845 0.845
+newmtl Glass
+Kd 0.0593709 0.0593709 0.0593709
+Ns 256
+d 0
+illum 2
+Ka 0 0 0
+Ks 0.81 0.81 0.81
+newmtl Glow
+Kd 0 1 0
+Ns 4096
+d 1
+illum 2
+Ka 0 250.418 0.251713
+Ks 0 0 0
+newmtl Metal
+Kd 0.416796 0.416796 0.416796
+Ns 362.039
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.81 0.81 0.81
+newmtl Metal2
+Kd 0.088663 0.088663 0.088663
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.845 0.845 0.845

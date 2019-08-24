@@ -1,0 +1,29 @@
+# MTL written from C:\Users\nickh\Google Drive\SAE\Trimester 1\GAM405\Project\GAM405.1\Assets\Models\PowerUp_Ammo.obj
+newmtl Bronze
+Kd 0.314636 0.0554683 0.0230803
+Ns 2048
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0550633 0.0550633 0.0550633
+newmtl Gold
+Kd 1.025 0.59202 0.014805
+Ns 1663.49
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.0493671 0.0475962 0
+newmtl Metal2
+Kd 0.088663 0.088663 0.088663
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.845 0.845 0.845
+newmtl PowerUp1
+Kd 0.014805 0.240414 1.025
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.3 0.3 0.3
